@@ -1,6 +1,10 @@
 # Purple-Team-Project
 
+The full Powerpoint can be downloaded here
+
 ![Purple Team Project](files/Jacob%20Small%20Final%20Project%20Presentation.pptx)
+
+Alternatively, the slides can be viewed below:
 
 ![Slide1](files/Slide1.png)
 ![Slide2](files/Slide2.png)
